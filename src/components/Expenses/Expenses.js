@@ -3,7 +3,7 @@ import ExpenceItem from './ExpenceItem';
 
 import './Expenses.css';
 
-function Expenses(props) {
+const Expenses = (props) => {
 	// const expenses = [
 	// 	{
 	// 		id: 'e1',
